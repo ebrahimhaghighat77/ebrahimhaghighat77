@@ -12,8 +12,8 @@
 ![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ### 🗂 My Project
-- [TelePremium-Self]([https://github.com/YOUR_USERNAME/telegram-group-manager-bot](https://github.com/ebrahimhaghighat77/TelePremium-Self)): New Telegram Self Bot For manage your Accaount 
-- [Self-Bot]([https://github.com/YOUR_USERNAME/telegram-news-bot](https://github.com/ebrahimhaghighat77/Self-Bot)): Telegram Self Bot For manage your Accaount. edit and upgrade orginal source Beyond Team
+- [TelePremium-Self](https://github.com/ebrahimhaghighat77/TelePremium-Self): New Telegram Self Bot For manage your Accaount 
+- [Self-Bot](https://github.com/ebrahimhaghighat77/Self-Bot): Telegram Self Bot For manage your Accaount. edit and upgrade orginal source Beyond Team
 
 
 ### 📊 GutHub Analytics
