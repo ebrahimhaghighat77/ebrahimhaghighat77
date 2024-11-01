@@ -56,12 +56,25 @@
 
 ---
 
+### ✨ Featured Projects
+<p align="center">
+    <a href="https://github.com/ebrahimhaghighat77/TelePremium-Self">
+        <img src="https://img.shields.io/badge/TelePremium%20Self%20Bot-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="TelePremium Self"/>
+    </a>
+    <a href="https://github.com/ebrahimhaghighat77/Self-Bot">
+        <img src="https://img.shields.io/badge/Self%20Bot-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Self Bot"/>
+    </a>
+</p>
+
+---
+
 ### 🚀 My Coding Journey
 <p align="center">
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 <p align="center">
-    I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>!
+    I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>! 
+    <br><em>"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt</em>
 </p>
 
 ---
@@ -91,3 +104,4 @@
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
     </a>
 </p>
+
