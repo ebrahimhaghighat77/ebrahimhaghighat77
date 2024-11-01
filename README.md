@@ -112,3 +112,11 @@
     </a>
 </p>
 
+---
+
+### ☕️ Buy Me a Coffee
+<p align="center">
+    <a href="TMnjsnqmRY34H3ru86XGiLFEzgmZ6PPSEC" target="_blank">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=yourusername&button_id=your_button_id&font_color=white&font_family=Cookie&outline_color=000000&coffee_color=FFD100" alt="Buy Me a Coffee" />
+    </a>
+</p>
