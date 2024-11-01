@@ -19,9 +19,8 @@
 ### 📊 GutHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=radical)
 
 <!---
 ebrahimhaghighat77/ebrahimhaghighat77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
