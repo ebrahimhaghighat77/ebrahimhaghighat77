@@ -28,7 +28,7 @@
 ## GitHub Analytics ⚙️
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=radical)
 
 
 <!---
