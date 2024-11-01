@@ -63,6 +63,7 @@
 <p align="center">
     I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>!
 </p>
+
 ---
 
 ### 📫 Connect with Me
