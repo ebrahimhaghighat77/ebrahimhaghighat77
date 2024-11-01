@@ -1,6 +1,10 @@
 <h2 align="center">👋 Welcome to My GitHub Profile</h2>
 
 <p align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</p>
+
+<p align="center">
     Hi, I'm <strong>ebrahimhaghighat77</strong> <br>
     💻 I'm interested in <strong>C#</strong> and <strong>Lua</strong> <br>
     🌱 I'm currently learning <strong>Xamarin</strong> <br>
@@ -29,7 +33,6 @@
 ---
 
 ### 🔥 Contribution Streak
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=dark" alt="Contribution Streak"/>
 </p>
@@ -37,8 +40,26 @@
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=dark" alt="Most Used Languages"/>
     <img src="https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+---
+
+### ⚙️ Fun Facts and Stats
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ebrahimhaghighat77&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/ebrahimhaghighat77?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/stars/ebrahimhaghighat77?label=Stars&style=social" alt="GitHub Stars"/>
+</p>
+
+---
+
+### 🚀 My Coding Journey
+<p align="center">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+<p align="center">
+    I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>!
 </p>
