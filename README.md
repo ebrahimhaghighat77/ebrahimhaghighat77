@@ -4,13 +4,19 @@
 - 💞️ I’m looking to collaborate on Telegram Bots
 - 📫 How to reach me ([Ebi](https://telegram.me/MrCli))
 
-### 🛠️ 𝙎𝙠𝙞𝙡𝙡𝙨 
+### 🛠️ Skills 
 ![Lua](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Telegram Bot](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-### 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨
+### 🗂 My Project
+- [TelePremium-Self]([https://github.com/YOUR_USERNAME/telegram-group-manager-bot](https://github.com/ebrahimhaghighat77/TelePremium-Self)): New Telegram Self Bot For manage your Accaount 
+- [Self-Bot]([https://github.com/YOUR_USERNAME/telegram-news-bot](https://github.com/ebrahimhaghighat77/Self-Bot)): Telegram Self Bot For manage your Accaount. edit and upgrade orginal source Beyond Team
+
+
+### 📊 GutHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=radical)
