@@ -15,11 +15,10 @@
 - [TelePremium-Self](https://github.com/ebrahimhaghighat77/TelePremium-Self): New Telegram Self Bot For manage your Accaount 
 - [Self-Bot](https://github.com/ebrahimhaghighat77/Self-Bot): Telegram Self Bot For manage your Accaount. edit and upgrade orginal source Beyond Team
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=radical)
 ### 📊 GutHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=radical)
 
 
 <!---
