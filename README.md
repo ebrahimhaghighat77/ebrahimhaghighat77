@@ -113,8 +113,12 @@
 </p>
 
 ---
+
 ### 🎮 Fun with Code
 <p align="center">
-    <img src="https://media.giphy.com/media/3oEjHLzmRkB3JHe2dC/giphy.gif" width="400px" alt="Coding"/>
-    <img src="https://media.giphy.com/media/6uMq3FwEt3EtP1I1fY/giphy.gif" width="400px" alt="Game Animation"/>
+    <img src="https://media.giphy.com/media/Ws7Rr0cNUjVjK8tsJH/giphy.gif" width="400px" alt="Coding"/>
+    <img src="https://media.giphy.com/media/l1J9qiyb0s8RfiytK/giphy.gif" width="400px" alt="Coding Excitement"/>
+    <img src="https://media.giphy.com/media/26tPz8K4P6DkHiwno/giphy.gif" width="400px" alt="Playing Game"/>
+    <img src="https://media.giphy.com/media/l2JdU0t4KDrgbti7y/giphy.gif" width="400px" alt="Gaming Animation"/>
 </p>
+
