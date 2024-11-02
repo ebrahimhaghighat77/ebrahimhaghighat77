@@ -116,9 +116,10 @@
 
 ### 🎮 Fun with Code
 <p align="center">
-    <img src="https://media.giphy.com/media/Ws7Rr0cNUjVjK8tsJH/giphy.gif" width="400px" alt="Coding"/>
-    <img src="https://media.giphy.com/media/l1J9qiyb0s8RfiytK/giphy.gif" width="400px" alt="Coding Excitement"/>
-    <img src="https://media.giphy.com/media/26tPz8K4P6DkHiwno/giphy.gif" width="400px" alt="Playing Game"/>
-    <img src="https://media.giphy.com/media/l2JdU0t4KDrgbti7y/giphy.gif" width="400px" alt="Gaming Animation"/>
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR2Z5fK/giphy.gif" width="400px" alt="Happy Coding"/>
+    <img src="https://media.giphy.com/media/l0MYt2XgY7Qf0X6Fq/giphy.gif" width="400px" alt="Coder at Work"/>
+    <img src="https://media.giphy.com/media/l2YWg4VyL91OgiV6I/giphy.gif" width="400px" alt="Playing Game"/>
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR2Z5fK/giphy.gif" width="400px" alt="Gaming Excitement"/>
 </p>
+
 
