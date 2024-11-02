@@ -114,13 +114,21 @@
 
 ---
 
-### 🎮 Fun with Code
+### 🤝 Meet Our Team
 <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coder at Work"/>
-    <img src="https://media.giphy.com/media/MWSWj7g4s3c3C/giphy.gif" width="400px" alt="Coding Animation"/>
-    <img src="https://media.giphy.com/media/1iZqIY8INLPCy/giphy.gif" width="400px" alt="Playing Game"/>
-    <img src="https://media.giphy.com/media/RfO2E3rPz1O3m/giphy.gif" width="400px" alt="Gaming Excitement"/>
+    We are a dedicated team working on **FiveM** servers, focusing on creating immersive and engaging gameplay experiences. Our team is passionate about modding and enhancing the FiveM community. Here are some of our members:
 </p>
+
+- **Team Leader**: [^BugCode](https://github.com/BugCode1) - Responsible for overseeing projects and team coordination.
+- **Team Leader**: [EeyJey](https://github.com/EeyJey) - Responsible for overseeing projects and team coordination.
+
+### 🌐 Our Projects
+- [Infinity Team](https://github.com/infinity-tm/): A collaborative project to enhance gameplay on our FiveM server.
+
+### 🔗 Connect with Us
+You can follow our progress and join our community on:
+- [Discord](https://discord.gg/InfinityRPir)
+
 
 
 
