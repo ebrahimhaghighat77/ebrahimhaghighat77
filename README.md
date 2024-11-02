@@ -113,10 +113,8 @@
 </p>
 
 ---
-
-### ☕️ Support Me on Ko-fi
+### 🎮 Fun with Code
 <p align="center">
-    <a href="https://ko-fi.com/ebrahimhaghighat" target="_blank">
-        <img src="https://img.ko-fi.com/cdn/kofi3.png" alt="Support Me on Ko-fi" />
-    </a>
+    <img src="https://media.giphy.com/media/3oEjHLzmRkB3JHe2dC/giphy.gif" width="400px" alt="Coding"/>
+    <img src="https://media.giphy.com/media/6uMq3FwEt3EtP1I1fY/giphy.gif" width="400px" alt="Game Animation"/>
 </p>
