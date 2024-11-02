@@ -116,10 +116,11 @@
 
 ### 🎮 Fun with Code
 <p align="center">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR2Z5fK/giphy.gif" width="400px" alt="Happy Coding"/>
-    <img src="https://media.giphy.com/media/l0MYt2XgY7Qf0X6Fq/giphy.gif" width="400px" alt="Coder at Work"/>
-    <img src="https://media.giphy.com/media/l2YWg4VyL91OgiV6I/giphy.gif" width="400px" alt="Playing Game"/>
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdR2Z5fK/giphy.gif" width="400px" alt="Gaming Excitement"/>
+    <img src="https://media.tenor.com/images/2f44c5cf0f3480477d703bb04ee4e31a/tenor.gif" width="400px" alt="Coder at Work"/>
+    <img src="https://media.tenor.com/images/4a0ae4c081e9f8e1e4c4081c7d93c35c/tenor.gif" width="400px" alt="Coding Animation"/>
+    <img src="https://media.tenor.com/images/d6ee8c44f64dbf8ebc4f388686de3e5c/tenor.gif" width="400px" alt="Playing Game"/>
+    <img src="https://media.tenor.com/images/c0c8ec8ff40e36832da182cb67beea4c/tenor.gif" width="400px" alt="Gaming Excitement"/>
 </p>
+
 
 
