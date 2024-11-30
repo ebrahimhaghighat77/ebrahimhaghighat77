@@ -130,6 +130,6 @@ You can follow our progress and join our community on:
 - [Discord](https://discord.gg/InfinityRPir)
 
 
-
+<img src="https://discord.c99.nl/widget/theme-1/503346752766738442.png" alt="Ebi Haghighat">
 
 
