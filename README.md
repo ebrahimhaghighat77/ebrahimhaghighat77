@@ -114,21 +114,6 @@
 
 ---
 
-### 🤝 Meet Our Team
-<p align="center">
-    We are a dedicated team working on **FiveM** servers, focusing on creating immersive and engaging gameplay experiences. Our team is passionate about modding and enhancing the FiveM community. Here are some of our members:
-</p>
-
-- **Team Leader**: [^BugCode](https://github.com/BugCode1) - Responsible for overseeing projects and team coordination.
-- **Team Leader**: [EeyJey](https://github.com/EeyJey) - Responsible for overseeing projects and team coordination.
-
-### 🌐 Our Projects
-- [Infinity Team](https://github.com/infinity-tm/): A collaborative project to enhance gameplay on our FiveM server.
-
-### 🔗 Connect with Us
-You can follow our progress and join our community on:
-- [Discord](https://discord.gg/InfinityRPir)
-
 
 <img src="https://discord.c99.nl/widget/theme-1/503346752766738442.png" alt="Ebi Haghighat">
 
