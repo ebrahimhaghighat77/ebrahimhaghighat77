@@ -1,120 +1,146 @@
-<h2 align="center">👋 Welcome to My GitHub Profile</h2>
-
 <p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3a7e,100:1f6feb&height=190&section=header&text=Ebrahim%20Haghighat&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Developer%20%C2%B7%20Shiraz,%20Iran&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Ebrahim Haghighat"/>
 </p>
 
 <p align="center">
-    Hi, I'm <strong>ebrahimhaghighat77</strong> <br>
-    💻 I'm interested in <strong>C#</strong> and <strong>Lua</strong> <br>
-    🌱 I'm currently learning <strong>Xamarin</strong> <br>
-    🤖 I'm looking to collaborate on <strong>Telegram Bots</strong> <br>
-    📫 How to reach me: <strong><a href="https://telegram.me/MrCli">Telegram Me</a></strong>
+  <a href="https://github.com/ebrahimhaghighat77">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Windows+apps+and+network+tools+in+C%23;Telegram+bots+in+Lua+and+Python;FiveM+servers+and+scripts;Latest%3A+FConnect%2C+a+per-app+split+tunnel" alt="Typing intro"/>
+  </a>
 </p>
-
----
-
-### 🔧 Skills
-<p align="center">
-    <img src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua" alt="Lua"/>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot"/>
-    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/-ChatGPT-00A400?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
-    <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
-</p>
-
-
----
-
-### 📂 My Projects
-
-- [**TelePremium-Self**](https://github.com/ebrahimhaghighat77/TelePremium-Self): New Telegram Self Bot for managing your account.
-- [**Self-Bot**](https://github.com/ebrahimhaghighat77/Self-Bot): Telegram Self Bot for managing your account. Edited and upgraded from original source by Beyond Team.
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimhaghighat77&theme=dark" alt="Contribution Streak"/>
-</p>
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimhaghighat77&layout=compact&theme=dark" alt="Most Used Languages"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ebrahimhaghighat77&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
----
-
-### ⚙️ Fun Facts and Stats
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ebrahimhaghighat77&style=flat-square&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/ebrahimhaghighat77?label=Followers&style=social" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/github/stars/ebrahimhaghighat77?label=Stars&style=social" alt="GitHub Stars"/>
-</p>
-
----
-
-### ✨ Featured Projects
-<p align="center">
-    <a href="https://github.com/ebrahimhaghighat77/TelePremium-Self">
-        <img src="https://img.shields.io/badge/TelePremium%20Self%20Bot-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="TelePremium Self"/>
-    </a>
-    <a href="https://github.com/ebrahimhaghighat77/Self-Bot">
-        <img src="https://img.shields.io/badge/Self%20Bot-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Self Bot"/>
-    </a>
-</p>
-
----
-
-### 🚀 My Coding Journey
-<p align="center">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-<p align="center">
-    I started coding at a young age and have been passionate about technology ever since! From scripting in Lua to exploring the depths of C#, my journey has been full of learning and growth. I'm always eager to work on innovative projects, especially in the world of <strong>Telegram Bots</strong>! 
-    <br><em>"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt</em>
-</p>
-
----
-
-### 📫 Connect with Me
 
 <p align="center">
-    <a href="https://telegram.me/MrCli" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://github.com/ebrahimhaghighat77" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://twitter.com/EbiHaghighat998" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://instagram.com/ebi_haghighat77" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:info@telepremium.ir" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://discord.gg/m5WnYTEQMd" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="https://twitch.tv/ebihaghighat" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-    </a>
+  <a href="https://telegram.me/MrCli"><img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+  <a href="https://twitter.com/EbiHaghighat998"><img src="https://img.shields.io/badge/Twitter-161b22?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/ebi_haghighat77"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://discord.gg/m5WnYTEQMd"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+  <a href="https://twitch.tv/ebihaghighat"><img src="https://img.shields.io/badge/Twitch-161b22?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
+  <a href="mailto:info@telepremium.ir"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ebrahimhaghighat77&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
----
+## 👋 About me
 
+- 💻 I work mostly in **C#** and **Lua**, with **Python** and **TypeScript** when the job needs them
+- 🤖 I build **Telegram bots** and I'm always up for collaborating on them
+- 🛰️ Lately I've been building network tools for Windows, like [**FConnect**](https://github.com/ebrahimhaghighat77/FConnect)
+- 🌱 Currently learning **Xamarin**
+- 🧪 Co-founder of [**SciDev Team**](https://github.com/SciDev-Team)
+- 📍 Shiraz, Iran · 📫 Reach me on [**Telegram**](https://telegram.me/MrCli)
 
-<img src="https://discord.c99.nl/widget/theme-1/503346752766738442.png" alt="Ebi Haghighat">
+## 🧪 My team: SciDev
 
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://scidev.ir"><img src="https://avatars.githubusercontent.com/u/306416407?v=4" width="96" alt="SciDev Team"/></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://scidev.ir">SciDev</a></b> <sub><i>Sensitive Compartmented Information Development</i></sub>
+      <br/><br/>
+      An independent software engineering team from Iran, founded by <b>Ebi, Farid &amp; Ghazaleh</b>. We build secure, resilient and automated systems: web and edge infrastructure, CI/CD pipelines, synchronized streaming and watch-party platforms, and bots.
+      <br/><br/>
+      <a href="https://scidev.ir"><img src="https://img.shields.io/badge/scidev.ir-161b22?style=flat-square&logo=caddy&logoColor=1F88C0" alt="Website"/></a>
+      <a href="https://t.me/SciDevTeam"><img src="https://img.shields.io/badge/Channel-161b22?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram channel"/></a>
+      <a href="https://github.com/SciDev-Team"><img src="https://img.shields.io/badge/SciDev--Team-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub organization"/></a>
+    </td>
+  </tr>
+</table>
 
+## 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,py,ts,electron,nodejs&theme=dark" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,redis,mysql,sqlite,git,github,vscode,visualstudio,ps&theme=dark" alt="Tools"/>
+</p>
+
+## 🚀 Open-source projects
+
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>🎮 <a href="https://github.com/ebrahimhaghighat77/FConnect">FConnect</a></h3>
+      Per-app split tunnel for Windows: only the games and apps you pick go through your v2ray / Xray server. Everything else stays on your normal connection.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Electron-161b22?style=flat-square&logo=electron&logoColor=47848F" alt="Electron"/>
+      <img src="https://img.shields.io/github/v/release/ebrahimhaghighat77/FConnect?style=flat-square&labelColor=161b22&color=1f6feb&label=release" alt="Latest release"/>
+      <img src="https://img.shields.io/github/downloads/ebrahimhaghighat77/FConnect/total?style=flat-square&labelColor=161b22&color=1f6feb&label=downloads" alt="Downloads"/>
+      <br/><br/>
+      <a href="https://github.com/ebrahimhaghighat77/FConnect"><img src="https://raw.githubusercontent.com/ebrahimhaghighat77/FConnect/main/docs/home.png" width="100%" alt="FConnect home screen"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⭐ <a href="https://github.com/ebrahimhaghighat77/TelePremium-Self">TelePremium-Self</a></h3>
+      Telegram self bot by TelePremium Team (v1.3.4) for managing your own account.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Lua-161b22?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+      <img src="https://img.shields.io/github/stars/ebrahimhaghighat77/TelePremium-Self?style=flat-square&labelColor=161b22&color=1f6feb&label=stars" alt="Stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/ebrahimhaghighat77/Self-Bot">Self-Bot</a></h3>
+      Bilingual Telegram self bot, edited and upgraded from the original Beyond Team source.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Lua-161b22?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+      <img src="https://img.shields.io/github/stars/ebrahimhaghighat77/Self-Bot?style=flat-square&labelColor=161b22&color=1f6feb&label=stars" alt="Stars"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/ebrahimhaghighat77/infinity-vehicles">infinity-vehicles</a></h3>
+      Vehicle pack for the Infinity Roleplay FiveM server, with optimized models, handling and configs.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Lua-161b22?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+      <img src="https://img.shields.io/badge/FiveM-161b22?style=flat-square&logo=fivem&logoColor=F40552" alt="FiveM"/>
+      <img src="https://img.shields.io/github/stars/ebrahimhaghighat77/infinity-vehicles?style=flat-square&labelColor=161b22&color=1f6feb&label=stars" alt="Stars"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/ebrahimhaghighat77/Discord-Media-Management">Discord-Media-Management</a></h3>
+      Discord bot that reposts media from one channel to another, with a role check and auto reactions.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+      <img src="https://img.shields.io/badge/discord.py-161b22?style=flat-square&logo=discord&logoColor=5865F2" alt="discord.py"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎧 <a href="https://github.com/SciDev-Team/MeowTunesPresence">MeowTunesPresence</a></h3>
+      Shows the song you're playing on MeowTunes on your Discord profile, with cover art and live progress. A browser extension plus a small Windows bridge. Made with SciDev.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Rich%20Presence-161b22?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord Rich Presence"/>
+      <img src="https://img.shields.io/github/stars/SciDev-Team/MeowTunesPresence?style=flat-square&labelColor=161b22&color=1f6feb&label=stars" alt="Stars"/>
+      <a href="https://meowtunes.scidev.ir"><img src="https://img.shields.io/badge/meowtunes.scidev.ir-161b22?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/ebrahimhaghighat77?tab=repositories">More repositories</a></h3>
+      Forks, experiments and everything else I keep on GitHub.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/All%20repos-161b22?style=flat-square&logo=github&logoColor=white" alt="All repos"/>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahimhaghighat77&theme=github_dark" width="100%" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebrahimhaghighat77&theme=github_dark" width="49%" alt="Top languages by repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebrahimhaghighat77&theme=github_dark" width="49%" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ebrahimhaghighat77&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&stroke=30363d" width="100%" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ebrahimhaghighat77&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b3a7e,100:0d1117&height=110&section=footer" width="100%" alt="Footer"/>
+</p>
